@@ -2,7 +2,7 @@
     "updated": true,
     "version": 1,
     "lastUpdated": "2026-01-23",
-    "showVideo": true,
+    "showVideo": false,
     "lessons": {
         "1_1": {
             "preLesson": "",
