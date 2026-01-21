@@ -1,6 +1,6 @@
 {
-    "version": 5,
-    "showVideo": false,
+    "version": 6,
+    "showVideo": true,
     "lessons": {
         "1_1": {
             "preLesson": "",
